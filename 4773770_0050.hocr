@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4773770_0050.png"; bbox 0 0 2584 3102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 547 54 2028 141">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 547 54 2028 141">
+     <span class='ocr_line' id='line_1_1' title="bbox 547 54 2028 141; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 547 54 1245 138; x_wconf 82' lang='lat' dir='ltr'><strong>JAHRES-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1308 58 2028 141; x_wconf 87' lang='lat' dir='ltr'>BERICHT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1152 249 1410 288">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1152 249 1410 288">
+     <span class='ocr_line' id='line_1_2' title="bbox 1152 249 1410 288; baseline 0.004 -1"><span class='ocrx_word' id='word_1_3' title='bbox 1152 249 1184 288; x_wconf 75' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_4' title='bbox 1186 254 1410 288; x_wconf 87' lang='lat' dir='ltr'>BBBBBB</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 801 390 1757 450">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 801 390 1757 450">
+     <span class='ocr_line' id='line_1_3' title="bbox 801 390 1757 450; baseline 0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 801 390 1757 450; x_wconf 74' lang='lat' dir='ltr'><strong>KONIGLICHE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 236 582 2321 693">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 236 582 2321 693">
+     <span class='ocr_line' id='line_1_4' title="bbox 236 582 2321 693; baseline 0.001 -3"><span class='ocrx_word' id='word_1_6' title='bbox 236 582 1334 691; x_wconf 81' lang='lat' dir='ltr'><strong>E-RZIEHUNGS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1403 651 1446 665; x_wconf 96' lang='lat'><strong>—</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1512 587 2321 693; x_wconf 88' lang='lat' dir='ltr'><strong>INSTITUT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 566 915 1977 1068">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 566 915 1977 1068">
+     <span class='ocr_line' id='line_1_5' title="bbox 566 915 1977 1068; baseline 0.001 -40"><span class='ocrx_word' id='word_1_9' title='bbox 566 957 1233 1068; x_wconf 84' lang='lat' dir='ltr'>STUDIERENDE</span> <span class='ocrx_word' id='word_1_10' title='bbox 1284 915 1404 1030; x_wconf 38' lang='lat' dir='ltr'><strong>xIN</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1474 952 1977 1032; x_wconf 77' lang='lat' dir='ltr'><strong>MUNCHEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 935 1379 1583 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 935 1379 1583 1426">
+     <span class='ocr_line' id='line_1_6' title="bbox 935 1379 1583 1426; baseline -0.005 -3"><span class='ocrx_word' id='word_1_12' title='bbox 935 1379 1583 1426; x_wconf 38' lang='lat' dir='ltr'><strong>Wmmffi»</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
